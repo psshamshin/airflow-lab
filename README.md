@@ -191,6 +191,9 @@ airflow dags trigger tutor_platform_load
 
 ---
 
+![Иллюстрация к проекту_1](https://github.com/psshamshin/aiflow-lab/screenshot_1.png)
+![Иллюстрация к проекту_2](https://github.com/psshamshin/aiflow-lab/screenshot_2.png)
+
 ## Проверка результатов
 
 После успешного выполнения DAG проверить данные в PostgreSQL:
